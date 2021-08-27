@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Emerson Day | Designer & Developer",
     description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    image: "/bitmoji.png",
     type: "website",
     ...customMeta,
   };
