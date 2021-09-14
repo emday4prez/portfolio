@@ -26,7 +26,7 @@ const userData = {
   ],
   about: {
     title:
-      "Strong Work Ethic. Fast Learner. Dedicated. Team Member. Problem Solver. ",
+      "Strong Work Ethic. Fast Learner. Team Member. Problem Solver. ",
     description: [
       `Technology and Design have always been the primary pillars of my life. As a child I was fascinated by computers and personal electronic devices.`,
       `As a recording and mixing engineer, long days and nights were worked blending the line between art and technology. Using ancient analog gear to record modern, state of the art, digital music. Always going above and beyond to please high profile clients, I quickly rose through the ranks at a top Hollywood studio, and began a successful independent freelance career.  `,
