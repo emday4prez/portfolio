@@ -75,7 +75,7 @@ const userData = {
       title: "Penn State University",
       company: "Criminal Law and Justice",
       year: "2003 - 2007",
-      companyLink: "https://upes.co.in",
+      companyLink: "https://www.psu.edu",
       desc: "Bachelor's Degree",
     },
   ],
