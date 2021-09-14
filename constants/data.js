@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "Save the Ocean",
-      link: "https://docs.google.com/presentation/d/1lwgZNNI2wlFAMIEgTEmFc53rLj1LUqG9AwyjM7qPBsE/edit?usp=sharing",
+      link: "https://drive.google.com/file/d/1abLq878rafb_If9ImPKcziLo1_3athht/view?usp=sharing",
       imgUrl: "/ocean.png",
     },
     {
@@ -19,7 +19,7 @@ const userData = {
     },
     {
       title: "Blueberry Farm",
-      link: "https://docs.google.com/presentation/d/1FL2c6azYZVGcJkwHg06HJT-vLoPQzrWAPw2xEx6GYag/edit?usp=sharing",
+      link: "https://drive.google.com/file/d/1FTXapbMQWc4dstk9V3YcJlgUq4XRPSxk/view?usp=sharing",
       imgUrl: "/blue-main.png",
     },
     
