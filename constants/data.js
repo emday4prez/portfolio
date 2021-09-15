@@ -80,7 +80,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/12Wt7lKIaaCFoIplPS43nndw4_cZCS4wl/view?usp=sharing",
+    "https://drive.google.com/file/d/1Th9_Qh9iIsc052GNnFyvN82ZYY3ljA3B/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/emerson.day",
     twitter: "https://twitter.com/emers0n",
