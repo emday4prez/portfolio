@@ -29,13 +29,20 @@ const userData = {
       "Strong Work Ethic. Fast Learner. Team Member. Problem Solver. ",
     description: [
       `Technology and Design have always been the primary pillars of my life. As a child I was fascinated by computers and personal electronic devices.`,
-      `As a engineer, long days and nights were worked blending the line between art and technology. Always going above and beyond to please high profile clients, I quickly rose through the ranks at a top Hollywood studio, and began a successful independent freelance career.  `,
+      `As an engineer, I know sometimes it takes long days and endless nights working to blend the line between art and technology. Always going above and beyond to please clients, I quickly rose through the ranks at a top Hollywood studio, and began a successful independent freelance career.  `,
       `When I started learning JavaScript, fell in love immediately. Feeling like a kid in candy store, I began enthusiastically working on my skills with React, Node, GraphQL, and several other modern web development tools. In addition to making web sites, I love designing them too. In 2021 I completed a UX Design program offered online by Google.`,
     ],
     currentProject: "Save The Ocean",
     currentProjectUrl: "https://docs.google.com/presentation/d/1lwgZNNI2wlFAMIEgTEmFc53rLj1LUqG9AwyjM7qPBsE/edit?usp=sharing",
   },
   experience: [
+    {
+      title: "Node Applications Developer",
+      company: "Linux Foundation",
+      year: "2021",
+      companyLink: "https://openjsf.org/certification/",
+      desc: "Professional Certification",
+    },
     {
       title: "Web Designer & Developer",
       company: "Freelance",
