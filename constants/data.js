@@ -29,8 +29,8 @@ const userData = {
       "Strong Work Ethic. Fast Learner. Team Member. Problem Solver. ",
     description: [
       `Technology and Design have always been the primary pillars of my life. As a child I was fascinated by computers and personal electronic devices.`,
-      `As a recording and mixing engineer, long days and nights were worked blending the line between art and technology. Using ancient analog gear to record modern, state of the art, digital music. Always going above and beyond to please high profile clients, I quickly rose through the ranks at a top Hollywood studio, and began a successful independent freelance career.  `,
-      `In 2019, I started learning JavaScript and fell in love immediately. Feeling like a kid in candy store, I began enthusiastically working on my skills with React, Node, GraphQL, and several other modern web development tools. In addition to making web sites, I love designing them too. In 2021 I completed a UX Design program offered online by Google.`,
+      `As a engineer, long days and nights were worked blending the line between art and technology. Always going above and beyond to please high profile clients, I quickly rose through the ranks at a top Hollywood studio, and began a successful independent freelance career.  `,
+      `When I started learning JavaScript, fell in love immediately. Feeling like a kid in candy store, I began enthusiastically working on my skills with React, Node, GraphQL, and several other modern web development tools. In addition to making web sites, I love designing them too. In 2021 I completed a UX Design program offered online by Google.`,
     ],
     currentProject: "Save The Ocean",
     currentProjectUrl: "https://docs.google.com/presentation/d/1lwgZNNI2wlFAMIEgTEmFc53rLj1LUqG9AwyjM7qPBsE/edit?usp=sharing",
@@ -60,16 +60,16 @@ const userData = {
     {
       title: "Tour Manager",
       company: "Sony / RCA",
-      year: "2016 - 2019",
+      year: "2017 - 2019",
       companyLink: "https://sony.com",
       desc: "Head of logistics and scheduling.",
     },
     {
-      title: "Audio Engineer",
+      title: "Staff Engineer",
       company: "The Jim Henson Company",
-      year: "2011 - 2016",
-      companyLink: "https://www.hensonrecordingstudios.com",
-      desc: "Staff engineer at one of Hollywood's most prestigious recording studios.",
+      year: "2011 - 2017",
+      companyLink: "https://www.henson.com",
+      desc: "Senior engineer at one of Hollywood's most prestigious studios.",
     },
     {
       title: "Penn State University",
