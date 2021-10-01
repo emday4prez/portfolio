@@ -37,6 +37,13 @@ const userData = {
   },
   experience: [
     {
+      title: "Web Designer & Developer",
+      company: "Freelance",
+      year: "2019 - Present",
+      companyLink: "twitter.com/emers0n",
+      desc: "Creating modern web applications.",
+    },
+    {
       title: "UX Design Professional Certificate",
       company: "Google",
       year: "2021",
@@ -62,7 +69,7 @@ const userData = {
       company: "Synchro Arts",
       year: "2018-2020",
       companyLink: "https://www.synchroarts.com/",
-      desc: "Present software and represent company at major conferences",
+      desc: "Present software and represent company at major conferences.",
     },
     {
       title: "Tour Manager",
