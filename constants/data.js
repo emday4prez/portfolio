@@ -58,9 +58,16 @@ const userData = {
       desc: "Computer Science fundamentals.",
     },
     {
+      title: "Product Specialist",
+      company: "Synchro Arts",
+      year: "2018-2020",
+      companyLink: "https://www.synchroarts.com/",
+      desc: "Present software and represent company at major conferences",
+    },
+    {
       title: "Tour Manager",
       company: "Sony / RCA",
-      year: "2017 - 2019",
+      year: "2016 - 2018",
       companyLink: "https://sony.com",
       desc: "Head of logistics and scheduling.",
     },
