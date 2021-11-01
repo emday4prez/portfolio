@@ -7,7 +7,7 @@ export default function FavouriteProjects() {
       <div className="max-w-6xl mx-auto">
         <header className="flex flex-col md:flex-row justify-between items-center pt-40 mx-10 md:my-20 lg:my-0">
           <h1 className="text-6xl lg:text-9xl max-w-lg font-bold text-gray-800 my-20 md:my-0 md:text-white dark:text-gray-600 text-center">
-            Designs.
+            React
           </h1>
           
           {/* <Link href="/work">
@@ -36,64 +36,45 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-10 lg:mt-4 pb-40">
           {/* Single card */}
           <a
-            href="https://docs.google.com/presentation/d/1lwgZNNI2wlFAMIEgTEmFc53rLj1LUqG9AwyjM7qPBsE/edit?usp=sharing"
+            href="https://emday4prez.github.io/ip-address-tracker/"
             className="w-full block col-span-3 shadow-2xl"
+            target="_blank"
           >
             <div className="relative overflow-hidden">
               <img
-                src="/wide-ocean.png"
-                alt="save the ocean non-profit"
+                src="/ip-wide.png"
+                alt="ip tracking website"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
-                Save The Ocean
+                IP Address Tracker
               </h1>
               {/* <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
               </h1> */}
             </div>
           </a>
-          {/* Single card */}
           <a
-           href="https://docs.google.com/presentation/d/1FL2c6azYZVGcJkwHg06HJT-vLoPQzrWAPw2xEx6GYag/edit?usp=sharing"
-            className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
+            href="https://telefrieden.netlify.app/"
+            className="w-full block col-span-3 shadow-2xl"
+            target="_blank"
           >
             <div className="relative overflow-hidden">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/blueberry.png"
-                alt="blueberry farm site design"
+                src="/telefrieden.png"
+                alt="telecom blog"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
-                Blueberry Farm
+                TeleFrieden
               </h1>
-              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
-                
-              </h1>
+              {/* <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                01
+              </h1> */}
             </div>
           </a>
-          {/* Single card */}
-          <a
-            href="https://docs.google.com/presentation/d/1hUZOQloMKJCe8bdPmqzUEbiKTcOooYllmhJTLg2XVm4/edit?usp=sharing"
-           
-            className="w-full block col-span-3 sm:col-span-1  object-cover"
-          >
-            <div className="relative overflow-hidden shadow-2xl">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
-              <img
-                src="/takeout.png"
-                alt="food ordering app"
-                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
-              />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-blue-500 rounded-md px-2">
-                Food Delivery App
-              </h1>
-              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
-             
-              </h1>
-            </div>
-          </a>
+       
+     
         </div>
       </div>
     </div>

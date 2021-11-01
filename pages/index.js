@@ -15,8 +15,9 @@ export default function Home({ repositories }) {
       description="UX Portfolio"
     >
       <Hero />
+      <FavouriteProjects />
       <Projects/>
-      {/* <FavouriteProjects /> */}
+      
       <LatestCode repositories={repositories} />
     </ContainerBlock>
   );
